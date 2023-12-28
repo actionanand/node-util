@@ -84,6 +84,8 @@ So if `npm` is the registered service name,
 docker-compose run --rm npm init
 ```
 
+![image](https://github.com/actionanand/node-util/assets/46064269/ff420eb6-8413-481c-baf2-996aab5c9154)
+
 ### Docker Image's public URL
 
 * [actionanand/node-util](https://hub.docker.com/r/actionanand/node-util)
