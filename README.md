@@ -1,4 +1,4 @@
-# Docker Utility Containers & Executing Commands
+# Docker Utility Containers & Executing Commands - (Section 5)
 
 This docker utility container will help us execute npm commands without installing node in our machine. I've used node 20.10-alpine version in this project.
 
@@ -90,6 +90,7 @@ docker-compose run --rm npm init
 
 * [actionanand/node-util](https://hub.docker.com/r/actionanand/node-util)
 
+  ![image](https://github.com/actionanand/node-util/assets/46064269/fc32e142-3651-4dd8-a754-ee94c33d035a)
 
 ## Associated repos:
 
