@@ -8,6 +8,9 @@ This docker utility container will help us execute npm commands without installi
 docker run -it --rm --name node-util node:20.10-alpine
 ```
 
+![image](https://github.com/actionanand/node-util/assets/46064269/0e99e84b-5c5a-4f87-880b-dda5e5e3526f)
+
+
 ## How to run node in interactive mode without any Dockerfile in terminal to use npm commands
 
 ```bash
