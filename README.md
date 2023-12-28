@@ -59,6 +59,9 @@ To run `npm install express`
 docker run -it --rm --name node-util -v $(pwd):/app actionanand/node-util install express
 ```
 
+![image](https://github.com/actionanand/node-util/assets/46064269/76df332e-3c6f-483f-a7f7-9e44975eac4c)
+
+
 ## Set-up using docker-compose
 
 * `docker-compose run` is used to run **single service** from multiple services present indide `docker-compose.yaml`
