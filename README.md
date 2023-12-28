@@ -25,6 +25,8 @@ docker exec -it node-util npm init
 
 The docker `exec` command helps us to execute(run) a new command inside the running container. 
 
+![image](https://github.com/actionanand/node-util/assets/46064269/873a981b-fbdd-4a88-9b09-8971fbddbfde)
+
 ## Set-up using Dockerfile
 
 1. Build the image
