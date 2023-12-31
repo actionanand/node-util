@@ -99,3 +99,5 @@ docker-compose run --rm npm init
 3. [Docker Communication](https://github.com/actionanand/docker_communication)
 4. [Docker Multi-container with docker-compose](https://github.com/actionanand/docker_multi-container)
 5. [Docker Utility Containers & Executing Commands](https://github.com/actionanand/node-util)
+6. [Laravel with Docker](https://github.com/actionanand/laravel_with_docker)
+7. [Angular with Docker](https://github.com/actionanand/angular_with_docker)
